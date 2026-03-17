@@ -9,7 +9,7 @@ The system is built with scalability and clean code principles in mind:
 * **Singleton Pattern:** Used for managing global configurations and user sessions.
 * **Factory Pattern:** Implemented for creating different types of mail folders (Inbox, Sent, Trash).
 * **Command Pattern:** Utilized to handle undo/redo operations for mail actions.
-* **Proxy Pattern:** (Optional/If applicable) For lazy loading of large email attachments.
+* **Proxy Pattern:** For lazy loading of large email attachments.
 
 ---
 
